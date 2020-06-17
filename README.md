@@ -5,3 +5,6 @@ This data-structures repository was moved to [https://github.com/williamfiset/Al
 # License
 
 This repository is released under the [MIT license](https://opensource.org/licenses/MIT). In short, this means you are free to use this software in any personal, open-source or commercial projects. Attribution is optional but appreciated.
+
+# Fork
+I have forked the project for easier access. This is a rich repository of knowledge for DSA and I express my deepeset gratitude to [https://github.com/williamfiset](WilliamFiset) for creating this repo and sharing his knwledge with the world.
